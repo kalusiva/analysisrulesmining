@@ -21,7 +21,7 @@ convert_to_basket<- function(olddata) {
       }
     }
   }
-  write(newdata,"/Users/kt/Documents/newdata.csv")
+  write(newdata,"newdata.csv")
   return (newdata)
 }
 
