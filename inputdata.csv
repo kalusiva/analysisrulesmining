@@ -1,0 +1,6 @@
+Order ID,Customer Age,Milk,Bread,Vegetable,Cleaner,Medicine,KitchenStaples,PurchaseAmount LEVEL
+101,Adult,1,1,1,0,0,0,Low
+103,Young,0,1,1,0,0,1,Low
+104,Adult,1,0,1,1,1,1,Medium
+105,Adult,1,1,1,1,1,1,High
+106,Senior,1,0,1,1,1,0,High
